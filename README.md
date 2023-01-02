@@ -49,3 +49,8 @@
 
 캐글 필사를 통한 전반적인 데이터 시각화 및 EDA, 기계학습 모델에 대한 이해 습득
 
+|                  Chapter                 |                                          Link                                          |
+|:----------------------------------------:|:--------------------------------------------------------------------------------------:|
+| 1. Titanic Tutorial                      | [🔗](https://github.com/SBShimm/Aiffel/blob/master/kaggle/titanic-tutorial-sb.ipynb)    |
+| 2. EDA To Prediction(DieTanic)           | [🔗](https://github.com/SBShimm/Aiffel/blob/master/kaggle/dietanic-sb.ipynb)            |
+| 3. Titanic Top 4% with ensemble modeling | [🔗](https://github.com/SBShimm/Aiffel/blob/master/kaggle/bike-sharing-demand_SB.ipynb) |
