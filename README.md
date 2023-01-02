@@ -3,7 +3,7 @@
 ## 1. Exploration
 
 |                          Chapter                          |                                          Link                                         | Rate |
-|:---------------------------------------------------------:|:-------------------------------------------------------------------------------------:|:----:|
+|-----------------------------------------------------------|:-------------------------------------------------------------------------------------:|:----:|
 | 1. Iris의 세 가지 품종, 분류해볼 수 있겠어요?             | [🔗](https://github.com/SBShimm/Aiffel/blob/master/exploration/Exploration1_SB.ipynb)  | ⭐⭐⭐  |
 | 2. 날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명? | [🔗](https://github.com/SBShimm/Aiffel/blob/master/exploration/Exploration2_SB.ipynb)  | ⭐⭐⭐  |
 | 3. 나의 첫 번째 캐글 경진대회, 무작정 따라해보기          | [🔗](https://github.com/SBShimm/Aiffel/blob/master/exploration/Exploration3_SB.ipynb)  | ⭐⭐⭐  |
@@ -21,6 +21,28 @@
 | 15. 문자를 읽을 수 있는 딥러닝🏆                            | [🔗](https://github.com/SBShimm/Aiffel/blob/master/exploration/Exploration15_SB.ipynb) | ⭐⭐⭐  |
 | 16. 난 스케치를 할 테니 너는 채색을 하거라🏆                | [🔗](https://github.com/SBShimm/Aiffel/blob/master/exploration/Exploration16_SB.ipynb) | ⭐⭐⭐  |
 
+
 🏆 : 우수 프로젝트 선정
 
 ## 2. Going Deeper
+
+|                 Chapter                |                                            Link                                           | Rate |
+|:--------------------------------------:|:-----------------------------------------------------------------------------------------:|:----:|
+| 1. 텍스트 데이터 다루기                |                                                                                           |      |
+| 2. 멋진 단어사전 만들기                | [🔗](https://github.com/SBShimm/Aiffel/blob/master/GoingDeeper/GoingDeeper_NLP2_SB.ipynb)  | ⭐⭐⭐  |
+| 3. 텍스트의 분포로 벡터화 하기         |                                                                                           |      |
+| 4. 뉴스 카테고리 다중분류              | [🔗](https://github.com/SBShimm/Aiffel/blob/master/GoingDeeper/GoingDeeper_NLP4_SB.ipynb)  | ⭐⭐⭐  |
+| 5. 워드 임베딩                         |                                                                                           |      |
+| 6. 임베딩 내 편향성 알아보기           | [🔗](https://github.com/SBShimm/Aiffel/blob/master/GoingDeeper/GoingDeeper_NLP6_SB.ipynb)  | ⭐⭐⭐  |
+| 7. Seq2seq와 Attention                 |                                                                                           |      |
+| 8. Seq2seq으로 번역기 만들기           | [🔗](https://github.com/SBShimm/Aiffel/blob/master/GoingDeeper/GoingDeeper_NLP8_SB.ipynb)  | ⭐⭐   |
+| 9. Transformer가 나오기까지            |                                                                                           |      |
+| 10. Transformer로 번역기 만들기        | [🔗](https://github.com/SBShimm/Aiffel/blob/master/GoingDeeper/GoingDeeper_NLP10_SB.ipynb) | ⭐⭐   |
+| 11. 기계 번역이 걸어온 길              |                                                                                           |      |
+| 12. 번역가는 대화에도 능하다           | [🔗](https://github.com/SBShimm/Aiffel/blob/master/GoingDeeper/GoingDeeper_NLP12_SB.ipynb) | ⭐⭐⭐  |
+| 13. modern NLP의 흐름에 올라타보자     |                                                                                           |      |
+| 14. BERT pretrained model 제작         | [🔗](https://github.com/SBShimm/Aiffel/blob/master/GoingDeeper/GoingDeeper_NLP14_SB.ipynb) | ⭐⭐⭐  |
+| 15. NLP Framework의 활용               |                                                                                           |      |
+| 16. HuggingFace 커스텀 프로젝트 만들기 | [🔗](https://github.com/SBShimm/Aiffel/blob/master/GoingDeeper/GoingDeeper_NLP16_SB.ipynb) | ⭐⭐   |
+
+## 3. Kaggle
